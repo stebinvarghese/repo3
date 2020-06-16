@@ -4,3 +4,6 @@ editd from command line
 
 
 hi  it me form git hub
+
+
+hi  it me from git command line
